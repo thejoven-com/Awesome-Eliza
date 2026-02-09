@@ -1,4 +1,7 @@
 # Awesome Eliza: Hyper-convergent curation nexus for autonomous agent orchestration, leveraging modular intelligence for scalable decentralized entities Implementation
+<p align="center">
+  <img src="https://i.ibb.co/yB41RN1K/Screenshot-2026-02-10-at-9-44-25-am.webp" alt="Awesome Eliza Header" width="100%">
+</p>
 > Advanced TypeScript solution leveraging modern agentic patterns and cutting-edge autonomous technology.
 
 Hyper-convergent curation nexus for autonomous agent orchestration, leveraging modular intelligence for scalable decentralized entities.
